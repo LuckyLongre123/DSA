@@ -30,7 +30,7 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ## 📊 My LeetCode Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Lucky_Longre)
+![LeetCode Stats](https://leetcard.jacoblin.cool/LuckyLongre)
 
 **Total Problems Solved: 72** (as of 21 Oct, 2025)
 
