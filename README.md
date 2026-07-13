@@ -509,10 +509,19 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
