@@ -506,12 +506,14 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/0383-ransom-note) |
 ## Trie
 |  |
@@ -521,6 +523,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
