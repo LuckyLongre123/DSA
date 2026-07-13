@@ -496,6 +496,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -505,4 +506,12 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
