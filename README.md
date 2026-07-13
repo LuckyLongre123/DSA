@@ -512,6 +512,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -520,8 +521,13 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
