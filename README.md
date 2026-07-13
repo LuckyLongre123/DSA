@@ -510,6 +510,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
