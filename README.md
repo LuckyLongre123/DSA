@@ -498,10 +498,12 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -529,6 +531,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/0189-rotate-array) |
 ## Counting
 |  |
 | ------- |
