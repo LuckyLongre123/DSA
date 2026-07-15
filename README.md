@@ -500,17 +500,20 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
