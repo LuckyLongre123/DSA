@@ -31,9 +31,9 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ## 📊 My LeetCode Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LuckyLongre)
+![LeetCode Stats](https://leetcard.jacoblin.cool/LuckyLongre?theme=chartreuse&font=Architects%20Daughter&ext=activity)
 
-**Total Problems Solved: 72** (as of 21 Oct, 2025)
+**Total Problems Solved: 121** (as of 16 July, 2026)
 
 ## 📚 Learning Path Structure
 
@@ -57,7 +57,8 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ![Data Structures Classification](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
 
-### 🔥 Current Progress: **63 Days | 72 Problems Solved**
+### 🔥 Current Progress: **63 Days | 121 Problems Solved**
+> *Note: The day streak has been archived at 63 days as I have transitioned to topic-wise tracking. The problem count, however, will continue to grow!*
 
 ---
 
