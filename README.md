@@ -31,7 +31,7 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ## 📊 My LeetCode Journey
 
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="center">
   <img
     src="https://leetcard.jacoblin.cool/LuckyLongre?theme=chartreuse&font=Architects%20Daughter&ext=activity"
     alt="Leetcode Stats"
