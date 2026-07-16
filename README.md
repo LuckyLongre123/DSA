@@ -31,7 +31,13 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ## 📊 My LeetCode Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LuckyLongre?theme=chartreuse&font=Architects%20Daughter&ext=activity)
+<div style="display: flex; justify-content: center; align-items: center">
+  <img
+    src="https://leetcard.jacoblin.cool/LuckyLongre?theme=chartreuse&font=Architects%20Daughter&ext=activity"
+    alt="Leetcode Stats"
+  />
+</div>
+
 
 **Total Problems Solved: 121** (as of 16 July, 2026)
 
@@ -391,10 +397,10 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 
 **Happy Coding!** 🚀
 
----
 
 *Educational repository with thoroughly commented code examples for effective learning.*
 
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
