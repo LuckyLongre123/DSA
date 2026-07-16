@@ -11,6 +11,7 @@
 <h1>C++ FUNDAMENTALS TO DSA MASTERY</h1>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
@@ -362,119 +363,13 @@ Advanced Linked List Manipulation
 **Day 63** [View Code](Day_063) - 16 Oct, 2025  
 Floyd's Cycle Detection Algorithm
 - [Linked List Cycle (LeetCode 141)](https://leetcode.com/problems/linked-list-cycle/) - Easy
---- 
 
-## 🛠️ How to Use This Repository
+---
 
-### Prerequisites
-#### Required Tools
-- Any C++ compiler (GCC recommended for beginners)
-- Code editor (VS Code recommended with C/C++ extension)
-- Git for version control
-- CMake (optional, for larger projects)
+> **📢 Repository Update Note**  
+> *Please note that the daily tracking format (Day-wise logging) has been discontinued from this point forward to streamline the workflow. All subsequent problems and solutions are now directly organized by topic. You can find all newly solved questions in the sections below or directly inside the `/problems` directory.*
 
-#### Optional Tools
-- Online IDE: [Programiz C++ Compiler](https://www.programiz.com/cpp-programming/online-compiler)
-- [Compiler Explorer](https://godbolt.org/) for understanding code compilation
-- [CPP Insights](https://cppinsights.io/) for deeper C++ understanding
-
-### 📚 Learning Path Guide
-
-#### 1. Getting Started
-- Begin with `Day_001` to `Day_010` for C++ fundamentals
-- Each day builds upon previous concepts
-- Complete all exercises before moving forward
-- Use the practice problems to reinforce learning
-
-#### 2. Problem-Solving Phase
-- Start from `Day_011` onwards for DSA
-- Focus on one topic at a time
-- Try solving problems before checking solutions
-- Review and understand the optimized solutions
-
-#### 3. Daily Study Routine
-1. 📖 **Read Theory First**
-   - Review README.md in each day's folder
-   - Understand the concepts before coding
-   - Take notes on key points
-
-2. 💻 **Practice Code**
-   - Study and run example programs
-   - Modify code to experiment
-   - Debug and fix errors
-   - Try variations of problems
-
-3. 🎯 **Solve Problems**
-   - Attempt practice exercises
-   - Start with easier problems
-   - Use hints only when stuck
-   - Review others' solutions
-
-4. 📝 **Review & Reflect**
-   - Document your learnings
-   - Note difficult concepts
-   - Create your own examples
-   - Track your progress
-
-## 🔧 Setup Guide
-
-### Local Development Setup
-
-#### Windows
-```powershell
-# Install MinGW (GCC for Windows)
-winget install GnuWin32.MinGW
-
-# Clone repository
-git clone <repository-url>
-cd DSA_CPP
-
-# Compile and run (PowerShell)
-g++ Day_001/basics.cpp -o program
-.\program
-```
-
-#### Linux/macOS
-```bash
-# Install GCC (Linux)
-sudo apt-get install build-essential  # Ubuntu
-brew install gcc                      # macOS
-
-# Clone and navigate
-git clone <repository-url>
-cd DSA_CPP
-
-# Compile and run
-g++ Day_001/basics.cpp -o program
-./program
-```
-
-### VS Code Setup
-1. Install [VS Code](https://code.visualstudio.com/)
-2. Install Extensions:
-   - C/C++ Extension Pack
-   - Code Runner
-   - GitLens (optional)
-3. Configure build tasks for C++
-4. Use integrated terminal for compilation
-
-### Quick Start with Online Compiler
-1. Visit [Programiz C++ Compiler](https://www.programiz.com/cpp-programming/online-compiler)
-2. Copy code from any `.cpp` file
-3. Paste and run directly in browser
-4. Great for quick testing and experimentation
-
-## 🚀 Next Steps
-
-### Current Focus
-- Continue daily LeetCode problem solving
-- Master fundamental data structures
-- Build algorithmic thinking skills
-
-### Future Learning Path
-1. **Data Structures**: Linked Lists, Trees, Graphs, Hash Tables
-2. **Algorithms**: Sorting, Searching, Dynamic Programming, Greedy
-3. **Advanced Topics**: System Design, Competitive Programming
+---
 
 ## 🎓 Journey Summary
 
