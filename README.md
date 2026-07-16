@@ -38,9 +38,6 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
   />
 </div>
 
-
-**Total Problems Solved: 121** (as of 16 July, 2026)
-
 ## 📚 Learning Path Structure
 
 ### Phase 1: Building C++ Foundation 🏗️
@@ -63,7 +60,7 @@ A **beginner-friendly** learning path from C++ basics to programming confidence.
 
 ![Data Structures Classification](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
 
-### 🔥 Current Progress: **63 Days | 121 Problems Solved**
+### 🔥 Current Progress: **63 Days | 121 Problems Solved** (as of 16 July, 2026)
 > *Note: The day streak has been archived at 63 days as I have transitioned to topic-wise tracking. The problem count, however, will continue to grow!*
 
 ---
