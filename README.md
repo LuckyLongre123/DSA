@@ -404,6 +404,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
@@ -411,6 +412,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
@@ -419,6 +421,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
