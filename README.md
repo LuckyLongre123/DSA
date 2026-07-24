@@ -406,6 +406,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
@@ -416,6 +417,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
@@ -427,6 +429,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
