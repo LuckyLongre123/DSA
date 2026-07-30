@@ -423,6 +423,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -443,6 +444,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -462,4 +464,8 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
