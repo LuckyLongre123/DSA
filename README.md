@@ -403,6 +403,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
@@ -415,6 +416,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0018-4sum) |
@@ -468,4 +470,8 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
