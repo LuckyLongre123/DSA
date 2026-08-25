@@ -445,6 +445,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/problems/0058-length-of-last-word) |
@@ -459,6 +460,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
@@ -496,6 +498,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
