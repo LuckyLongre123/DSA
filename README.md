@@ -414,6 +414,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -461,6 +462,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -495,6 +497,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
