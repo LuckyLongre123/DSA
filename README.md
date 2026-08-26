@@ -403,7 +403,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Array
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/problems/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
@@ -412,14 +412,14 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
-| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
-| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
+| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/problems/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0018-4sum) |
@@ -428,8 +428,8 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
-| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -440,20 +440,20 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/problems/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
-| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
-| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -461,12 +461,12 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Hash Table
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
-| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
-| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -479,33 +479,33 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
+| [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/0011-container-with-most-water) |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0011-container-with-most-water](https://github.com/LuckyLongre123/DSA/tree/master/problems/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 ## Stack
 |  |
 | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 ## Binary Search
 |  |
 | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
-| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
-| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
