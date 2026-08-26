@@ -453,6 +453,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -464,6 +465,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -500,6 +502,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
