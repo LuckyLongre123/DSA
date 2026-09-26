@@ -410,6 +410,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
@@ -511,4 +512,12 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
