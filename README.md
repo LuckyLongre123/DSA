@@ -451,6 +451,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/problems/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
@@ -486,6 +487,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -520,10 +522,15 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
