@@ -409,6 +409,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
 | [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
@@ -515,6 +516,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
