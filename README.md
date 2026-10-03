@@ -416,6 +416,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -506,6 +507,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -514,11 +516,13 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
