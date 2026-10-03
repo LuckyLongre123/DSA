@@ -454,6 +454,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/problems/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
@@ -471,6 +472,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
@@ -514,6 +516,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
