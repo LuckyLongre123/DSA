@@ -419,6 +419,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -508,6 +509,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -518,11 +520,13 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
