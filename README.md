@@ -431,6 +431,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
@@ -474,6 +475,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
@@ -544,4 +546,12 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
