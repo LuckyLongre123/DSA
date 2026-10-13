@@ -437,6 +437,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -553,6 +554,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
