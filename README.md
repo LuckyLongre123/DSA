@@ -409,14 +409,14 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0016-3sum-closest](https://github.com/LuckyLongre123/DSA/tree/master/problems/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0026-remove-duplicates-from-sorted-array) |
-| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/0046-permutations) |
+| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/problems/0046-permutations) |
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
-| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
-| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -431,13 +431,13 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0075-sort-colors](https://github.com/LuckyLongre123/DSA/tree/master/problems/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
-| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
-| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/problems/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
-| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/problems/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -456,16 +456,16 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LuckyLongre123/DSA/tree/master/problems/0014-longest-common-prefix) |
-| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/problems/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/problems/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/LuckyLongre123/DSA/tree/master/problems/0058-length-of-last-word) |
-| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
+| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/problems/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
-| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/problems/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -475,14 +475,14 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LuckyLongre123/DSA/tree/master/problems/0013-roman-to-integer) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
-| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/problems/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/problems/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/LuckyLongre123/DSA/tree/master/problems/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LuckyLongre123/DSA/tree/master/problems/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
-| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/problems/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -496,7 +496,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/problems/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -515,49 +515,49 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
-| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuckyLongre123/DSA/tree/master/problems/0003-longest-substring-without-repeating-characters) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/0076-minimum-window-substring) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/LuckyLongre123/DSA/tree/master/problems/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/LuckyLongre123/DSA/tree/master/problems/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckyLongre123/DSA/tree/master/problems/0424-longest-repeating-character-replacement) |
-| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/0567-permutation-in-string) |
-| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/problems/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
-| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
-| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/0046-permutations) |
-| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/problems/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/LuckyLongre123/DSA/tree/master/problems/0046-permutations) |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
-| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/0078-subsets) |
+| [0078-subsets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/0022-generate-parentheses) |
+| [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/problems/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
-| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/0142-linked-list-cycle-ii) |
-| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/problems/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
-| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
