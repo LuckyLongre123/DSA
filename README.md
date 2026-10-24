@@ -433,6 +433,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0125-valid-palindrome](https://github.com/LuckyLongre123/DSA/tree/master/problems/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/LuckyLongre123/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/LuckyLongre123/DSA/tree/master/problems/0567-permutation-in-string) |
@@ -506,6 +507,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/LuckyLongre123/DSA/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
@@ -554,6 +556,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LuckyLongre123/DSA/tree/master/problems/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LuckyLongre123/DSA/tree/master/problems/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/LuckyLongre123/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/problems/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -564,5 +567,6 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/LuckyLongre123/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/LuckyLongre123/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
