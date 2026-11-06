@@ -418,6 +418,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0303-range-sum-query-immutable](https://github.com/LuckyLongre123/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/LuckyLongre123/DSA/tree/master/problems/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/LuckyLongre123/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/LuckyLongre123/DSA/tree/master/problems/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
@@ -542,6 +543,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0209-minimum-size-subarray-sum](https://github.com/LuckyLongre123/DSA/tree/master/problems/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/LuckyLongre123/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/LuckyLongre123/DSA/tree/master/problems/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/LuckyLongre123/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
