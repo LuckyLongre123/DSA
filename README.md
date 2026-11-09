@@ -424,6 +424,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0918-maximum-sum-circular-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuckyLongre123/DSA/tree/master/problems/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckyLongre123/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/LuckyLongre123/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +507,7 @@ This repository documents a complete learning path from C++ fundamentals to DSA 
 | [0022-generate-parentheses](https://github.com/LuckyLongre123/DSA/tree/master/problems/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/LuckyLongre123/DSA/tree/master/problems/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LuckyLongre123/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/LuckyLongre123/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
 | ------- |
